@@ -1,0 +1,37 @@
+html, body {
+    height: 100%;
+}
+#wrapper {
+    min-height: 100%;
+}
+#main {
+    overflow: auto;
+    padding-bottom: 160px;  /* Bigger than footer margin */
+}
+.footer {
+    background-color: #eee;
+    position: relative;
+    margin-top: -130px;
+    height: 60px;
+    clear: both;
+    padding-top: 20px;
+}
+
+#spinner {
+    display: none;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-top: -18px;
+    margin-left: -18px;
+}
+
+.alert[id*='alert'] {
+    display: none;
+}
+
+.modal {
+    display: none;
+    width: 800px;
+    margin-left: -400px;
+}

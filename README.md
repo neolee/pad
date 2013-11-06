@@ -1,4 +1,3 @@
-pad
-===
+## PAD on Paradigm X
 
-My tools for Puzzle and Dragons
+My tools for Puzzle and Dragons.
