@@ -1,3 +1,3 @@
-## PAD on Paradigm X
+## Challengers for PAD
 
-My tools for Puzzle and Dragons.
+My tools for Puzzle and Dragons dungeon challengers.
